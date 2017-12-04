@@ -1,0 +1,20 @@
+Usar historia para ser eficiente
+Si grabo de manera eficiente los archivos me queda mas facil editarlos
+17.Puede ocurrir un problema y borrarse las informacion antes de grabar
+Puede guardar momentos irrelevantes
+Olvidarse
+Ventajas
+Puede guardar despues de cada adicion importate
+Se hace las veces necesaris sin tener copias inservibles
+18. Porque a veces hay archivos conectados que no cambian y solo se requiere actualizar uno
+22. Git diif y git log deben usarse viendo todos los cambios porque si uno no los ve todos no salen y se pueden cometer errores
+26. Hace posible focalizar errores para evitar hacer cambios negativos grandes
+31. Quiero usarlo para hacer mi aplicacion y conseguir un trabajo de analista de datos porque ser valet es una mierda
+
+A
+B
+$
+C
+#
+%
+E
