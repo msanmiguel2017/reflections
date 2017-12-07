@@ -1,0 +1,30 @@
+Usar historia para ser eficiente
+Si grabo de manera eficiente los archivos me queda mas facil editarlos
+17.Puede ocurrir un problema y borrarse las informacion antes de grabar
+Puede guardar momentos irrelevantes
+Olvidarse
+Ventajas
+Puede guardar despues de cada adicion importate
+Se hace las veces necesaris sin tener copias inservibles
+18. Porque a veces hay archivos conectados que no cambian y solo se requiere actualizar uno
+22. Git diif y git log deben usarse viendo todos los cambios porque si uno no los ve todos no salen y se pueden cometer errores
+26. Hace posible focalizar errores para evitar hacer cambios negativos grandes
+31. Quiero usarlo para hacer mi aplicacion y conseguir un trabajo de analista de datos porque ser valet es una mierda
+
+Se crea el repositorio para tener un proyecto y poder hacer commits para avanzar en cambios importantes.
+Es muy importante organizarlo todo para poder hacer correciones con mayor facilidad
+Esto sirve para que un commit represente cambios utiles y logicos cada uno, es importante revisar que el cambio sea el deseado y para eso usa comparaciones entre el staging area y el work directory antes de hacer cambios irreversibles
+16. Las branches o ramas me parecen importantes tomando en cuenta que a mi me gusta hacer muchas cagadas experimentales entonces puedo volver al punto original
+
+Antes de la linea roja son los de master
+Los de linea roja son los adicionados por la otra persona o sara
+los de arriba de los rojos se adicionaron al master despues de la creacion de la rama sara
+
+              Coins
+Master              Master
+                                         easy-mode
+
+Master "revert controls" pasa a "I can't spell screen apparently"
+Master "revert controls" pasa a "First pass at adding coins"
+Master "add bullets delay back" pasa a easy-mode "2 bullets instead of 3"
+
