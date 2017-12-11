@@ -1,1 +1,7 @@
 Para que crear un remote repository en vez de hacerlo en mi computador?
+10. Creo que manualmemte se harian cambios importantes y significativos
+14. Forks y clone son dos operaciones iguales, la diferencia es que forks se hace en el servidor de Github para adquirir un repositorio y clone se hace del servidor de github al portatil
+Branch se hace en el portatil y sirve para hacer ediciones personales en el repositorio las cuales pueden adicionarse luego al master.
+Fork la uso en Github
+Clone la uso entre Github y mi portatil
+Branch la uso sobre el repositorio en mi portatil
