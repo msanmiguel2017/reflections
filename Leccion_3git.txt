@@ -5,3 +5,4 @@ Branch se hace en el portatil y sirve para hacer ediciones personales en el repo
 Fork la uso en Github
 Clone la uso entre Github y mi portatil
 Branch la uso sobre el repositorio en mi portatil
+22. Es muy importante llevar un orden en los nuevos commits para que sea mas facil hacer nuevos cambios en el repositorio y evitar cualquier perdida de informacion. Tambien sirve para que las adiciones de los colaboradores se incluyan de manera favorable al repositorio.
