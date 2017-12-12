@@ -6,3 +6,5 @@ Fork la uso en Github
 Clone la uso entre Github y mi portatil
 Branch la uso sobre el repositorio en mi portatil
 22. Es muy importante llevar un orden en los nuevos commits para que sea mas facil hacer nuevos cambios en el repositorio y evitar cualquier perdida de informacion. Tambien sirve para que las adiciones de los colaboradores se incluyan de manera favorable al repositorio.
+25. Como colaborar sin usar Git o Github? Encontrar un sistema similar de compartir archivos o mandar archivos de las cosas que cambian.
+25. Seria mas facil o mas dificil? Si existe un programa mejor que git seria mas facil pero el envio de archivos individuales es costoso y puede servir para cometer mas errores.
